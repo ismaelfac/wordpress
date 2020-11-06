@@ -1,0 +1,71 @@
+# Translation of Plugins - Enable jQuery Migrate Helper - Stable (latest release) in Spanish (Colombia)
+# This file is distributed under the same license as the Plugins - Enable jQuery Migrate Helper - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-07 18:23:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_CO\n"
+"Project-Id-Version: Plugins - Enable jQuery Migrate Helper - Stable (latest release)\n"
+
+#: class-jquery-migrate-helper.php:236
+msgid "* A script, a file, or some other piece of code is deprecated when its developers are in the process of replacing it with more modern code or removing it entirely."
+msgstr "* Un script, un archivo o alguna otra pieza de código están obsoletos cuando sus desarrolladores están en el proceso de reemplazarlos con código más actual o los han eliminado completamente."
+
+#: class-jquery-migrate-helper.php:232
+msgid "When you have updated your plugins and themes, and there are no more warnings, please deactivate Enable jQuery Migrate Helper."
+msgstr "Cuando hayas actualizado tus plugins y temas y no haya ninguna advertencia más, por favor, desactiva Enable jQuery Migrate Helper."
+
+#: class-jquery-migrate-helper.php:231
+msgid "If you get warnings, you should check the theme or plugin that generated them for an update. There will very likely be one you can install."
+msgstr "Si tienes advertencias, deberías comprobar el tema o plugin que las ha generado para actualizarlos. Es muy posible que haya una que puedas instalar."
+
+#: class-jquery-migrate-helper.php:223
+msgid "Right now you are using the Enable jQuery Migrate Helper plugin to enable support for old JavaScript code that uses deprecated functions in the jQuery JavaScript library."
+msgstr "Ahora mismo, estás usando el plugin Enable jQuery Migrate Helper para activar la compatibilidad con código JavaScript antiguo que use funciones obsoletas en la biblioteca JavaScript jQuery."
+
+#: class-jquery-migrate-helper.php:138
+msgid "If you are, you may want to ask the developers of the code mentioned in the warnings for an update."
+msgstr "Si así fuera, puedes pedir a los desarrolladores del código mencionado en las advertencias que hagan una actualización."
+
+#: class-jquery-migrate-helper.php:137
+msgid "Please make sure you are using the latest version of all of your plugins, and your theme."
+msgstr "Por favor, asegúrate de que estás usando la última versión de todos tus plugins y de tu tema."
+
+#: class-jquery-migrate-helper.php:132
+msgid "This page generated the following warnings:"
+msgstr "Esta página ha generado las siguientes advertencias:"
+
+#: class-jquery-migrate-helper.php:131
+msgctxt "enable-jquery-migrate-helper"
+msgid "Warnings encountered"
+msgstr "Advertencias encontradas"
+
+#: class-jquery-migrate-helper.php:131 class-jquery-migrate-helper.php:221
+#: class-jquery-migrate-helper.php:284
+msgctxt "Admin notice header"
+msgid "jQuery Migrate Helper"
+msgstr "jQuery Migrate Helper"
+
+#. Author of the plugin
+msgid "The WordPress Team"
+msgstr "El equipo de WordPress"
+
+#. Description of the plugin
+msgid "Enable support for old and outdated plugins and themes during a jQuery update transitional phase."
+msgstr "Activa la compatibilidad con plugins y temas antiguos y desfasados durante una fase transicional de actualización de jQuery."
+
+#. Plugin Name of the plugin
+msgid "Enable jQuery Migrate Helper"
+msgstr "Enable jQuery Migrate Helper"
+
+#. Author URI of the plugin
+msgid "https://wordpress.org"
+msgstr "https://es-co.wordpress.org"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/enable-jquery-migrate-helper"
+msgstr "https://es-co.wordpress.org/plugins/enable-jquery-migrate-helper"
